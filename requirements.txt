@@ -8,3 +8,4 @@ chatterbot_corpus
 gunicorn
 spacy==2.2.4
 thinc==7.4.0
+
